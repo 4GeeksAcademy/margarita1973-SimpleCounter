@@ -1,12 +1,12 @@
-
-/* 
-
-    You can write your own styles here...
+.digitBox {
+    display: inline-block;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+    font-size: 70px;
+    line-height: 60px;
+    background: #252525;
+    color: white;
+    padding: 10px;
+    margin:15px;
+    border: solid 1px color(rgb(49, 43, 43));
+    border-radius: 5%;
+}
